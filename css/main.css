@@ -44,7 +44,7 @@ header {
   width: 24px;
   height: 3px;
   margin: 4px auto;
-  background-color: white;
+  background-color: green;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
